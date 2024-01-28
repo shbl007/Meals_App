@@ -11,10 +11,20 @@ function MealsViewScreen({route}){
    });
 
    function renderMealItem(itemData){
+
+    const item = itemData.item;
+
+    const mealItemProp ={
+        title : item.title,
+        imageUrl:item.imageUrl,
+        duration:item.duration,
+        complexity:item.complexity,
+        affordability:item.affordability
+        
+    };
+ 
     return(
-    <MealItem title={itemData.item.title} 
-        imageUrl={itemData.item.imageUrl}
-    />
+    <MealItem {...mealItemProp}/>
     );
    }
 
