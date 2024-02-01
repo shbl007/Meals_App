@@ -22,6 +22,7 @@ const  styles=StyleSheet.create({
     detailItem:{
         marginHorizontal:4,
         fontSize:12,
-        fontWeight:'500'
+        fontWeight:'500',
+        color:"#333" //remove tomorrow
     }
 });
