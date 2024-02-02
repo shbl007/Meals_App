@@ -23,6 +23,5 @@ const  styles=StyleSheet.create({
         marginHorizontal:4,
         fontSize:12,
         fontWeight:'500',
-        color:"#333" //remove tomorrow
     }
 });

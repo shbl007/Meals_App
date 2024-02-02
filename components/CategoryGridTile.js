@@ -47,7 +47,6 @@ const styles=StyleSheet.create({
     title:{
         fontWeight:'bold',
         fontSize:18,
-        color:"#3c3c3c", //remove tomorrow
     }
 
 });
