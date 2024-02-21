@@ -12,8 +12,23 @@ MealsApp is a cutting-edge mobile application built using React Native and Expo.
 **Favorite Meals**: Discover a new favorite dish? Simply mark it as a favorite, and it will be saved for easy access in your personal favorites list. Never lose track of the meals you love most, and revisit them anytime with just a tap
 
 **User-Friendly Interface**: With a sleek and intuitive interface, navigating through MealsApp is a breeze. Enjoy a seamless user experience as you explore, discover, and save your favorite meals with ease.
-![Screenshot_20240221-124540](https://github.com/shbl007/Meals_App/assets/98837574/99f573c1-d169-4248-926f-33e19d449b07)
-![Screenshot_20240221-124544](https://github.com/shbl007/Meals_App/assets/98837574/dd6bef4d-01c5-4863-a7f6-2c2a31a32a2d)
-![Screenshot_20240221-124549](https://github.com/shbl007/Meals_App/assets/98837574/5c20562f-8c1c-43a0-ad75-66b8da4b7f1b)
-![Screenshot_20240221-124555](https://github.com/shbl007/Meals_App/assets/98837574/ae1a20a3-71f7-4e6f-b24f-2b6654a7d838)
-![Screenshot_20240221-124600](https://github.com/shbl007/Meals_App/assets/98837574/21c6211c-5572-4f61-ba07-d746c72c33a8)
+
+
+
+![WhatsApp Image 2024-02-21 at 5 48 24 PM](https://github.com/shbl007/Meals_App/assets/98837574/47fda79a-7ba3-49ca-96b7-e536ab2cbd50)
+
+![WhatsApp Image 2024-02-21 at 5 48 24 PM (2)](https://github.com/shbl007/Meals_App/assets/98837574/7ae4e0d8-3a5d-4e57-be6a-ba48f6b34767)
+
+![WhatsApp Image 2024-02-21 at 5 48 25 PM](https://github.com/shbl007/Meals_App/assets/98837574/e59a56af-3477-45a7-b18e-67dc29339531)
+
+![WhatsApp Image 2024-02-21 at 5 48 24 PM (1)](https://github.com/shbl007/Meals_App/assets/98837574/1361cd8c-cbfe-4583-901d-beeeb71b2e6c)
+
+![WhatsApp Image 2024-02-21 at 5 48 26 PM (1)](https://github.com/shbl007/Meals_App/assets/98837574/bf49d08d-ad91-4b00-81ba-619530a48a31)
+
+
+
+
+
+
+
+
